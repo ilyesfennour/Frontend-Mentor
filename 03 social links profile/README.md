@@ -15,12 +15,12 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 ### Screenshot
 
-![project-screenshot](./screenshot.jpg)
+![project-screenshot](https://github.com/ilyesfennour/Frontend-Mentor/blob/main/03%20social%20links%20profile/assets/images/screenshot%20social-links-profile.png?raw=true)
 
 ### Links
 
-- [Solution URL](https://your-solution-url.com)
-- [Live Site URL](https://your-live-site-url.com)
+- [Solution URL](https://www.frontendmentor.io/solutions/responsive-social-links-profile-Fz__d3-Te-)
+- [Live Site URL](https://ilyesfennour.github.io/Frontend-Mentor/03%20social%20links%20profile/index.html)
 
 ## My process
 
