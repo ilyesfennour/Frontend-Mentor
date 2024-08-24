@@ -16,12 +16,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![project screenshot](https://github.com/ilyesfennour/Frontend-Mentor-02-Blog-preview-card-solution/blob/main/assets/images/Screenshot%20Blog%20preview%20card.png?raw=true)
+![project screenshot](https://github.com/ilyesfennour/Frontend-Mentor/blob/main/02%20Blog%20preview%20card/assets/images/Screenshot%20Blog%20preview%20card.png?raw=true)
 
 ### Links
 
 - [solution URL](https://www.frontendmentor.io/solutions/responsive-blog-preview-card-0HVb_AEaos)
-- [live site URL](https://ilyesfennour.github.io/Frontend-Mentor-02-Blog-preview-card-solution/)
+- [live site URL](https://ilyesfennour.github.io/Frontend-Mentor/02%20Blog%20preview%20card/)
 
 ## My process
 
