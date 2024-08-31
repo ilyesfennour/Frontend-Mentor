@@ -11,12 +11,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![project screenshot](https://github.com/ilyesfennour/Frontend-Mentor/blob/main/newbie/01%20qr-code/qr-code-component-main/images/Screenshot%20QR%20code%20component.png?raw=true)
+![project screenshot](https://github.com/ilyesfennour/Frontend-Mentor/blob/main/newbie/01%20QR%20code%20component/images/Screenshot%20QR%20code%20component.png?raw=true)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-yCK2lzxOG0)
-- Live Site URL: [Add live site URL here](https://ilyesfennour.github.io/frontend-mentor-01-QR-code-component/)
+- [Solution URL](https://www.frontendmentor.io/solutions/qr-code-yCK2lzxOG0)
+- [Live Site URL](https://ilyesfennour.github.io/Frontend-Mentor/newbie/01%20QR%20code%20component/)
 
 ### Built with
 
